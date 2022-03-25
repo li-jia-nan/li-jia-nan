@@ -22,4 +22,4 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" />
 | - | - |
 
-![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan)
+![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=redical)
