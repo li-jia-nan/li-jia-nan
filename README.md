@@ -4,7 +4,7 @@
 
 > A Front end developer from **HangZhou, China**.
 
-### 🏗️ Learning：
+### 🏗️ Learning:
 
 <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
@@ -19,13 +19,15 @@
 - **Phone** : 19941208872
 - **E-mail** : 574980606@qq.com
 
-### 🏠 Blog：
+### 🏠 Blog:
 
 - **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
+
+### 📊 Stats:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### 📈 Activity Graph：
+### 📈 Activity Graph:
 
 ![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
