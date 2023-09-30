@@ -49,7 +49,7 @@
 
 # 开源经历
 
-## antd（核心成员之一）（87.6k star）
+## [antd（核心成员之一）](https://github.com/ant-design/ant-design)（87.7k star）
 
 ### 贡献地址：https://github.com/ant-design/ant-design/pulls?q=is%3Apr+author%3Ali-jia-nan
 
@@ -61,7 +61,7 @@
 - 参与新版官网开发，负责部分废弃组件迁移指南的文档编写、添加 warning 和废弃说明
 - 修复底层 rc 库大量 bug、完成 ts 类型增强、代码风格优化、性能优化等
 
-## ahooks（核心成员之一）（12.6k star）
+## [ahooks（核心成员之一）](https://github.com/alibaba/hooks)（12.6k star）
 
 ### 贡献地址：https://github.com/alibaba/hooks/pulls?q=is%3Apr+author%3Ali-jia-nan
 
