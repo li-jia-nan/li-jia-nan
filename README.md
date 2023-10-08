@@ -19,10 +19,6 @@
 - **Phone** : 19941208872
 - **E-mail** : 574980606@qq.com
 
-> 正在求职中，有意加我微信
-
-# 求职！求职！求职！杭州上海求捞！
-
 <details>
     <summary align="center"><b>我的简历</b></summary>
 
