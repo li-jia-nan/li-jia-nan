@@ -32,4 +32,4 @@
 
 ### 📈 Activity Graph:
 
-![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=dracula)](https://github.com/li-jia-nan/github-readme-activity-graph)
