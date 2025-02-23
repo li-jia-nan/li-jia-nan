@@ -1,8 +1,8 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
+<p align="center"><img align="center" width="100%" src="./assets/header.png" /></p>
 
-### Hi there, I am Li Jianan👋
+### Hi, I am Li Jianan <span align="center"><img align="center" width="100%" src="./assets/hello.webp" /></span>
 
-> A Front end developer from **HangZhou, China**.
+> A front-end engineer from **HangZhou, China**.
 
 ### 🏗️ Learning:
 
@@ -16,10 +16,12 @@
 
 - **QQ** : 574980606
 - **WeChat** : 19941208872
-- **Phone** : 19941208872
+- **Phone** : +86 19941208872
 - **E-mail** : 574980606@qq.com
 
-> ## 求职求职，杭州求内推，联系方式在上面 ☝️
+> ## 求职求职，杭州求内推，联系方式在上面，欢迎随时联系 👆
+
+> ## Hi, I am currently looking for a new job opportunity. I have more than five years of work experience. my contact info is above. Feel free to contact me at any time. 👆
 
 ### 🏠 Blog:
 
