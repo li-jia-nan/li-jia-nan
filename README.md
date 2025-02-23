@@ -19,9 +19,9 @@
 - **Phone** : +86 19941208872
 - **E-mail** : 574980606@qq.com
 
-> ## 嗨，我目前正在寻找新的工作机会，我拥有五年工作经验，您可以在上方看到我的联系方式，欢迎随时联系！ ☝️
+> ### 嗨，我目前正在寻找新的工作机会，我拥有五年工作经验，您可以在上方看到我的联系方式，欢迎随时联系！
 
-> ## Hi, I am currently looking for a new job opportunity. I have more than five years of work experience. my contact info is above. Feel free to contact me at any time. ☝️
+> ### Hi, I am currently looking for a new job opportunity. I have more than five years of work experience. my contact info is above. Feel free to contact me at any time.
 
 ### 🏠 Blog:
 
